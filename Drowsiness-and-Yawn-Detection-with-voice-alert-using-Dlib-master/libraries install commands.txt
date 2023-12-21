@@ -1,0 +1,31 @@
+"on terminal on vs code "
+
+to install scipy:
+pip install scipy
+
+to install imutils:
+pip install imutils
+
+to install numpy :
+pip install numpy
+
+to install Thread:
+pip install Thread
+
+to install argparse:
+pip install argparse
+
+to install speake3:
+pip install speake3
+
+to install dlib:
+you need to install visual c++ 
+from start menu on your laptop  go to visual studio installer click modify and make sure c++ development is checked if not you need to install it 
+when finished installing it use this command on terminal 
+pip install dlib
+
+
+to install distance :
+pip install distance 
+
+
